@@ -40,7 +40,7 @@ Thank you for your interest in contributing to Scholaris. This document provides
 
 ### Finding Issues to Work On
 
-1. Check the [Issues](https://github.com/danyalaltaff11555/scholaris/issues) page
+1. Check the [Issues](https://github.com/danyalaltaff11555/Graph-Reasoning-Chatbot/issues) page
 2. Look for issues labeled `good first issue` or `help wanted`
 3. Comment on the issue to express interest
 4. Wait for maintainer assignment before starting work
@@ -58,10 +58,10 @@ Thank you for your interest in contributing to Scholaris. This document provides
 ```bash
 # Fork the repository on GitHub
 # Clone your fork
-git clone https://github.com/danyalaltaff11555/scholaris.git
+git clone https://github.com/danyalaltaff11555/Graph-Reasoning-Chatbot.git
 
 # Add upstream remote
-git remote add upstream https://github.com/danyalaltaff11555/scholaris.git
+git remote add upstream https://github.com/danyalaltaff11555/Graph-Reasoning-Chatbot.git
 ```
 
 ### Environment Setup

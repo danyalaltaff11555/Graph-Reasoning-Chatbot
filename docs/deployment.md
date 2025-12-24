@@ -144,7 +144,7 @@ brew services start redis
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/danyalaltaff11555/scholaris.git
+git clone https://github.com/danyalaltaff11555/Graph-Reasoning-Chatbot.git
 cd scholaris
 ```
 

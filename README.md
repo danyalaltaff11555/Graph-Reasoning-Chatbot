@@ -30,7 +30,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/danyalaltaff11555/scholaris.git
+git clone https://github.com/danyalaltaff11555/Graph-Reasoning-Chatbot.git
 cd scholaris
 
 # Install dependencies
