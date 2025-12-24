@@ -72,7 +72,7 @@ python -m scholaris.api.main
 # API docs at http://localhost:8000/docs
 ```
 
-## 📚 Features
+## Features
 
 ### 1. **Knowledge Graph Construction**
 - Automatic entity and relation extraction from documents
@@ -132,7 +132,7 @@ Comprehensive guides for deployment, usage, and contribution:
 - **[Contributing Guide](CONTRIBUTING.md)** - Development workflow and coding standards
 
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run all tests
@@ -175,5 +175,3 @@ Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guideli
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
-
-**Built with 🧠 for researchers and learners.**
